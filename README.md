@@ -1,6 +1,6 @@
 Latihan Pertemuan 5: Navigasi Antar Layar
 
-Repositori ini berisi hasil latihan praktis mata kuliah Pengembangan Aplikasi Mobile (Teknik Informatika - ITERA) mengenai implementasi **Navigation Component** di Compose Multiplatform.
+Repositori ini berisi hasil latihan praktis mata kuliah Pengembangan Aplikasi Mobile mengenai implementasi **Navigation Component** di Compose Multiplatform.
 
 🚀 Fitur & Latihan
 
